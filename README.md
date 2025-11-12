@@ -111,6 +111,9 @@ switch ($nama_hari) {
 📍 **Cara akses:**
 👉 `http://localhost/lab7_php_dasar/kondisi_switch.php`
 📸 **Hasil:**
+
+![Gambar](https://github.com/tir890/Lab7Web/blob/8c3b8d11483efa967a7ed16daf5b83d00f462d6d/image.png)
+
 Menampilkan nama hari saat ini dalam bahasa Indonesia.
 
 ---
