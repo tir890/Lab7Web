@@ -81,7 +81,8 @@ File: `php_dasar.php`
   👉 `http://localhost/lab7_php_dasar/php_dasar.php?nama=Tir`
 
 📸 **Hasil:**
-Menampilkan teks *Hello World*, NIM, Nama, dan ucapan “Selamat Datang, Tir”.
+![Gambar](https://github.com/tir890/Lab7Web/blob/138ee3fddd6a5c267ed28682b0e8305e7aa3a6b5/image.png)
+Menampilkan teks *Hello World*, NIM, Nama, dan ucapan “Selamat Datang, Tiara”.
 
 ---
 
