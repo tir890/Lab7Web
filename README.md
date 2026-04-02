@@ -1,8 +1,11 @@
 # Lab7Web: Framework PHP (CodeIgniter 4) - Dasar MVC dan Layouting
 
 **Nama:** Tiara Hayatul Khoir
+
 **NIM:** 312410474
+
 **Kelas:** I241E
+
 **Mata Kuliah:** Pemrograman Web 2
 
 ## 📝 Deskripsi Project
