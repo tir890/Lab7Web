@@ -1,12 +1,8 @@
-Tentu, ini adalah template README.md yang disusun mengikuti struktur contoh yang Anda berikan, namun isinya telah disesuaikan sepenuhnya dengan materi dan instruksi yang ada di dalam **Modul Praktikum 1** (CodeIgniter 4) yang Anda unggah.
-
------
-
 # Lab7Web: Framework PHP (CodeIgniter 4) - Dasar MVC dan Layouting
 
-**Nama:** [Isi Nama Anda]  
-**NIM:** [Isi NIM Anda]  
-**Kelas:** [Isi Kelas Anda]  
+**Nama:** Tiara Hayatul Khoir
+**NIM:** 312410474
+**Kelas:** I241E
 **Mata Kuliah:** Pemrograman Web 2
 
 ## 📝 Deskripsi Project
@@ -121,6 +117,3 @@ Menunjukkan bahwa semua link pada navigasi (Home, Artikel, About, Kontak) sudah 
 
 Praktikum ini memberikan pemahaman dasar mengenai pentingnya framework dalam pengembangan aplikasi web. Dengan struktur MVC dan layouting yang baik, aplikasi menjadi lebih terorganisir dan mudah dipelihara.
 
------
-
-**Tautan E-learning:** [Link ke E-campus jika ada]
