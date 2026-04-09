@@ -105,7 +105,7 @@ lab11_php_ci/ (atau Lab7Web)
 
 Konfigurasi ekstensi PHP pada XAMPP Control Panel untuk mendukung CodeIgniter 4.
 
-> 
+> !(Gambar 1)[https://github.com/tir890/Lab7Web/blob/3b3b730a9d84d34fc95fe690d0a9f259f9050fd5/image/1.jpeg]
 
 ### 2\. Implementasi Controller
 
