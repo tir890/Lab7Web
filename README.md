@@ -111,8 +111,7 @@ Konfigurasi ekstensi PHP pada XAMPP Control Panel untuk mendukung CodeIgniter 4.
 
 Pembuatan file `Page.php` untuk mengatur logika tampilan tiap halaman.
 
-> ![Gambar 2](<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/e8cc129d-e07a-4c56-8510-2cae23735d9c" />
-)
+> ![Gambar 2](https://github.com/tir890/Lab7Web/blob/88cd0ea8878fccecbfbd3f6ebb1d094f521a162d/image/4.png)
 
 ### 3\. Tampilan Halaman dengan Layout
 
